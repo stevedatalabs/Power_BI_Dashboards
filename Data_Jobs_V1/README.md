@@ -2,7 +2,7 @@
 
 ![Dashboard Page](/Images/Project%201%20Page%201.png)
 
-[View Interactive dashboard here on the power BI service](https://app.powerbi.com/links/Sso6l7E4Ly?ctid=52612cf3-b602-483a-8065-1566a5520819&pbi_source=linkShare)
+[View Interactive dashboard here on the power BI service](https://app.powerbi.com/view?r=eyJrIjoiZDc5MDQ3NGEtNWNlZC00ZTdmLTkwMDUtYmFkZDIxZGVkYjNiIiwidCI6IjUyNjEyY2YzLWI2MDItNDgzYS04MDY1LTE1NjZhNTUyMDgxOSJ9)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ This dashboard was created for **job seekers, job transitioners and job swappers
 
    ### Page 2: Job Title Drill Through.
 
-   ![Dashboard Page](/Images/Project%202%20Page%202..png)
+   ![Dashboard Page](/Images/Project%201%20Page%202..png)
 
    This is the deep dive page. From the main dashboard, you can drill through to this view and get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations. Inside this page you can scroll in the azure map to dive deep into job location.
 
